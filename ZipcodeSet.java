@@ -1,7 +1,6 @@
 /*
    Christiana Smith
    November 4, 2021
-   Desc: Lab 6
 */
 
 import java.util.*;
